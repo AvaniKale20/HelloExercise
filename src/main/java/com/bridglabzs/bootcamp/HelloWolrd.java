@@ -6,4 +6,5 @@ public class HelloWolrd {
     String Clgname;
     String name5;
     int age;
+    int address;
 }
