@@ -1,6 +1,6 @@
 package com.bridglabzs.bootcamp;
 
 public class HelloWolrd {
-int no;
+double price;
 String name;
 }
